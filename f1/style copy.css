@@ -1,0 +1,14 @@
+body {
+  background-color: red;
+}
+.class1 {
+  color: white;
+}
+ a {
+  text-decoration: none; 
+  color: white;
+}
+.gif {
+  height: 30%;
+  width: 30%;
+}
